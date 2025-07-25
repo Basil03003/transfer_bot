@@ -20,7 +20,7 @@ from aiogram.client.default import DefaultBotProperties
 from net import *
 from functions import *
 
-API_TOKEN = "7851212851:AAFjumFjDljm0ckBdST6aqMWHFuTH7mE4Ow"
+API_TOKEN = ""
 
 # Инициализация логгера
 logging.basicConfig(level=logging.INFO)
