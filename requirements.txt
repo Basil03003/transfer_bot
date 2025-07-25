@@ -1,0 +1,6 @@
+torch
+torchvision
+aiogram
+aiohttp
+pydantic
+aiohttp-socks
